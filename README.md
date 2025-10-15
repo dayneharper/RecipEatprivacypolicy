@@ -1,2 +1,185 @@
 # RecipEatprivacypolicy
 RecipEat privacy policy
+
+Privacy Policy for RecipEat
+Last Updated: October 15, 2025
+Effective Date: October 15, 2025
+________________________________________
+Introduction
+Welcome to RecipEat, a mobile application developed and operated by Hyperdrive Machine ("we," "our," or "us"). We are committed to protecting your privacy and handling your personal information with care and transparency.
+This Privacy Policy explains how we collect, use, store, and protect your information when you use the RecipEat mobile application (the "App"). By using RecipEat, you agree to the collection and use of information in accordance with this policy.
+If you have any questions or concerns about this Privacy Policy, please contact us at hyperdrivemachine@gmail.com.
+________________________________________
+1. Information We Collect
+Personal Information
+When you create an account with RecipEat, we collect:
+•	Email Address: Used for account creation, authentication, and communication
+•	Password: Securely encrypted and used for account authentication
+User-Generated Content
+You may choose to create and store:
+•	Recipes: Titles, ingredients, instructions, etc.
+•	Photos and Images: Recipe photos you take or upload
+•	Meal Plans: Personalized schedules and data
+•	Shopping Lists: Grocery lists and items
+•	Home Inventory: Pantry and refrigerator items
+•	Shopping Receipts: Optional stored data
+•	Nutrition Tracking: Goals and meal logs
+•	Meal Templates and Alarms: Saved templates and reminders
+Device Information
+We collect:
+•	Device ID: Anonymous identifier for managing subscription status
+•	App Preferences: Settings stored locally on your device
+Subscription Data
+If you purchase a premium subscription, we collect:
+•	Subscription Status, Product Identifier, Purchase Dates, Store Information
+Photos and Camera Access
+When you grant permission, the App can:
+•	Access your camera to take recipe photos
+•	Access your photo library to select existing images
+•	Process photos using AI to extract recipe information
+________________________________________
+2. How We Use Your Information
+Core Functionality
+•	Provide and maintain the RecipEat service
+•	Create and manage your account
+•	Store and sync recipes, meal plans, and data
+•	Process recipe photos to extract ingredients and instructions
+Premium Features
+•	Manage your subscription and enable premium features
+Communication
+•	Send important notifications and respond to inquiries
+Improvement and Analytics
+•	Improve performance and user experience
+•	Debug and fix technical issues
+Note: We do not use third-party analytics or tracking.
+________________________________________
+3. Data Storage and Security
+Where Your Data Is Stored
+•	Cloud Storage: Supabase (secure cloud database)
+•	Local Storage: Preferences stored securely on your device
+Security Measures
+•	Encryption in Transit and at Rest
+•	Secure Authentication and Access Controls
+•	Regular Security Updates
+Your Responsibility
+•	Use strong passwords
+•	Keep credentials confidential
+•	Report security issues to hyperdrivemachine@gmail.com
+________________________________________
+4. Third-Party Services
+Supabase (Backend Services)
+Purpose: Database storage, authentication, and AI photo processing
+Privacy Policy: https://supabase.com/privacy
+RevenueCat (Subscription Management)
+Purpose: Handle in-app purchases and subscriptions
+Privacy Policy: https://www.revenuecat.com/privacy
+Apple App Store / Google Play Store
+Purpose: App distribution and payment processing
+Privacy Policies:
+•	Apple: https://www.apple.com/legal/privacy/
+•	Google: https://policies.google.com/privacy
+What We Don’t Use
+•	No ad networks
+•	No analytics trackers
+•	No social media integrations
+•	No data brokers
+________________________________________
+5. Photo and Camera Usage
+Permission Requirements
+The App requests permission to:
+•	Use Camera for taking recipe photos
+•	Access Photo Library to upload existing images
+How Photos Are Used
+•	Stored securely in our cloud database
+•	Processed using AI/OCR to extract text
+•	You can delete photos anytime
+________________________________________
+6. Subscription and Payment Information
+Payment Processing
+Handled by RevenueCat and your app store.
+We do not access your credit card or billing information.
+Subscription Data Stored
+•	Subscription status, product ID, purchase dates, store name
+Managing Your Subscription
+Modify or cancel through your Apple or Google account settings.
+________________________________________
+7. Data Sharing and Disclosure
+•	We do not sell, rent, or trade your data.
+•	Data shared only with Supabase and RevenueCat to operate the app.
+•	Information may be disclosed only if required by law.
+•	In case of a business transfer, you’ll be notified before changes take effect.
+________________________________________
+8. Your Rights and Choices
+•	Access Your Data: View within the App
+•	Update Information: Edit anytime
+•	Delete Your Data: Within the App or by emailing hyperdrivemachine@gmail.com
+•	Export Data: Request via email
+•	Opt-Out: Manage notifications or unsubscribe from emails
+Response time: within 30 days for most requests.
+________________________________________
+9. Data Retention
+•	Data retained while your account is active
+•	Fully deleted within 30 days after account deletion
+•	Backups kept for up to 90 days for security recovery
+________________________________________
+10. Children’s Privacy
+•	RecipEat complies with COPPA (Children’s Online Privacy Protection Act).
+•	No data collected knowingly from children under 13.
+•	Parents may contact us to review or delete a child’s information.
+________________________________________
+11. International Users and Data Transfers
+•	Your data may be stored in the U.S., EU, or other Supabase regions.
+•	GDPR Rights (EU Users): Access, Rectification, Erasure, Restriction, Portability, Objection, Withdraw Consent.
+•	Contact: hyperdrivemachine@gmail.com for GDPR inquiries.
+________________________________________
+12. California Privacy Rights (CCPA)
+•	Right to Know what data we collect
+•	Right to Delete your personal information
+•	Right to Opt-Out: We do not sell data
+•	Right to Non-Discrimination: Equal service guaranteed
+To exercise your rights: email hyperdrivemachine@gmail.com with subject “California Privacy Rights Request”.
+________________________________________
+13. Do Not Track Policy
+We do not track users across websites or apps and do not use behavioral advertising.
+________________________________________
+14. Changes to This Privacy Policy
+•	Updates may occur due to new laws or app features
+•	“Last Updated” date will always reflect the most recent version
+•	Major changes will be communicated via email or in-app notification
+________________________________________
+15. Contact Information
+Company: Hyperdrive Machine
+Email: hyperdrivemachine@gmail.com
+Privacy Inquiry Subject Line: “Privacy Inquiry - RecipEat”
+Data Request Subject Line: “Data Request - RecipEat”
+Response time: within 30 days
+________________________________________
+16. Legal and Compliance
+•	Governing Law: United States
+•	Jurisdiction: U.S. courts of competent authority
+•	Google Play Compliance: Fully compliant with Play Store data requirements
+•	Severability: Invalid provisions do not affect the rest
+•	Entire Agreement: This Privacy Policy + Terms of Service
+________________________________________
+17. Summary and Key Points
+What We Collect:
+•	Email, password, recipes, photos, device ID, subscription info
+How We Use It:
+•	Provide recipe tools, meal planning, and subscription features
+Who We Share With:
+•	Supabase and RevenueCat (only for functionality)
+Your Rights:
+•	Access, update, export, or delete your data anytime
+Our Commitment:
+•	No ads or tracking
+•	Strong security and encryption
+•	Transparent and ethical data practices
+________________________________________
+Acknowledgment
+By using RecipEat, you acknowledge that you have read, understood, and agree to this Privacy Policy.
+Thank you for trusting RecipEat — we’re committed to keeping your data safe and private.
+________________________________________
+Hyperdrive Machine
+Last Updated: October 15, 2025
+Version: 1.0
+
