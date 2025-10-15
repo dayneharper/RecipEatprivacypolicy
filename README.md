@@ -1,0 +1,2 @@
+# RecipEatprivacypolicy
+RecipEat privacy policy
